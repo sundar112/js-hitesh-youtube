@@ -22,5 +22,12 @@ const myFunction = function(){
     console.log("hello wored this is function");
 }
 
+//++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+//stack (primitive), heap (non premitive)
+
+
+
+
 
 
